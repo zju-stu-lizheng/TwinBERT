@@ -1,0 +1,11 @@
+#python=3.9.12
+numpy
+pandas
+scipy
+torch
+transformers
+matplotlib
+sentencepiece
+scikit-learn
+adapter-transformers
+protobuf=3.19.0

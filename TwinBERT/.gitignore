@@ -1,0 +1,16 @@
+# origin BERT model
+msmarco-distilbert-base-tas-b/
+distilbert/
+
+data/
+saved/
+sbert_output/
+csv/
+embdi/
+train
+
+state1
+state2
+*.out
+*.png
+*.sh

@@ -1,1 +1,1 @@
-* Hospital dataset is on :https://github.com/zju-stu-lizheng/Hospital_Dataset
+* Healthcare dataset is on :https://github.com/zju-stu-lizheng/Hospital_Dataset
